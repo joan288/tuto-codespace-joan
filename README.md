@@ -1,5 +1,4 @@
-# demo-template
-
+# Tutoriel Codespaces
 ## Objectifs
 
 À l'issue de ce tutoriel, vous devez savoir :
